@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Django,Power BI,Data Visualization**
 
-- 💬 Ask me about **Bootstrap, javaScript, gsap,Locomotive JS,DSA,Python,C&C++,PoweBI,Excel,HTML,CSS, SQL,MySQL,**
+- 💬 Ask me about **Bootstrap, javaScript, gsap,Locomotive JS, DSA, Python, C&C++, PoweBI, Excel, HTML, CSS, SQL, MySQL,**
 
 - 📫 How to reach me **av305764@gmail.com**
 
