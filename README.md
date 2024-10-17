@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amitkumar4307&label=Profile%20views&color=0e75b6&style=flat" alt="amitkumar4307" /> </p>
 
-- 🌱 I’m currently learning **Django,Power BI,Data Visualization**
+- 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Bootstrap, javaScript, Gsap, Locomotive JS, DSA, Python, C&C++, PoweBI, Excel, HTML5, CSS3, SQL, MySQL,**
+- 💬 Ask me about **Bootstrap, javaScript, Gsap, Locomotive JS, DSA, Python, Django, C&C++, PoweBI, Excel, HTML5, CSS3, SQL, MySQL, Data Visualization**
 
 - 📫 How to reach me **212313@kit.ac.in**
 
